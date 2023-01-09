@@ -45,7 +45,7 @@ All Manufacturing Lots: p-value = 0.6028, alpha = 0.05
 
 ### T-test for Lot 1
 Lot 1: p-value = 1, alpha = 0.05
-1 > 0.05, which means Lot 1 is not statistically significant from the normal distribution and normality can be assumed. The mean falls within the 95% confidence interval.
+1 > 0.05, which means Lot 1 is not statistically significant from the normal distribution. The mean falls within the 95% confidence interval.
 
 ![lot_1_t-test](Resources/lot_1_t-test.png) 
 
@@ -57,7 +57,7 @@ Lot 2: p-value = 0.6072, alpha = 0.05
 
 ### T-test for Lot 3
 Lot 3: p-value = 0.04168, alpha = 0.05
-0.041 < 0.05, which means it is statistically significant from the normal distribution and normality cannot be assumed. However, the mean falls within the 95% confidence interval.
+0.041 < 0.05, which means it is statistically significant from the normal distribution and normality cannot be assumed. 
 
 ![lot_3_t-test](Resources/lot_3_t-test.png) 
 
