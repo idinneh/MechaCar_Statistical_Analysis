@@ -22,7 +22,7 @@ The purpose of this analysis is to identify which variables in the dataset predi
  
  ## Summary Statistics on Suspension Coils
 ### Manufacturing Lot Summary
-This is the summary statistics of all of the manufacturing lots. The mean is 1498.78 from the sample and the population mean was determined 
+This is the summary statistics of all of the manufacturing lots. The mean is 1498.78 from the sample and the population mean was determined to be 1500.
 
 ![manufacturing_lot_summary](Resources/manufacturing_lot_summary.png) 
 
