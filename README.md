@@ -57,7 +57,7 @@ Lot 2: p-value = 0.6072, alpha = 0.05
 
 ### T-test for Lot 3
 Lot 3: p-value = 0.04168, alpha = 0.05
-0.041 < 0.05, which means it is statistically significant from the normal distribution and normality cannot be assumed. 
+0.041 < 0.05, which means it is statistically significant from the normal distribution and normality cannot be assumed. However, the mean falls within the 95% confidence interval.
 
 ![lot_3_t-test](Resources/lot_3_t-test.png) 
 
@@ -66,7 +66,7 @@ Lot 3: p-value = 0.04168, alpha = 0.05
 To compare MechaCar to its competitor, we would need to address some metrics that could be of interest to a consumer. These include cost, car color, city fuel efficiency, highway fuel efficiency, horsepower, maintenance cost, or safety rating.
 
 What metric or metrics are you going to test?
-One of the primary concerns when driving a car, is the safety component. Consumers would like to drive a car that meets the safety measures when on the road. The possible metrics to test should be the safety rating, horsepower, and highway fuel efficiency, which address some safety concerns of consumers, and illustrating how it would perform better than its competitors.
+One of the primary concerns when driving a car, is the safety component. Consumers would like to drive a car that meets the safety measures when driving on the road. The possible metrics to test should be the safety rating, horsepower, and highway fuel efficiency, which address some safety concerns of consumers, and illustrating how it would perform better than its competitors.
 
 What is the null hypothesis or alternative hypothesis?
 The null hypothesis is that the mean of the safety rating is zero. The alternative hypothesis is that the mean of the safety rating is not zero.
