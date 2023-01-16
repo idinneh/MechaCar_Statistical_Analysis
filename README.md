@@ -1,7 +1,7 @@
 # MechaCar_Statistical_Analysis
 
 ## Overview of Project
-The purpose of this analysis is to identify which variables in the dataset predict the mpg of MechaCar prototypes, collect summary statistics on the pounds per square inch (PSI) of the suspension coils from the manufacturing lots, determine if the manufacturing lots are statistically different from the mean population using t-tests and compare compare vehicle performance of the MechaCar vehicles against vehicles from other manufacturers. The calculations were done with R on R Studio.
+The purpose of this analysis is to identify which variables in the dataset that predict the mpg of MechaCar prototypes, collect summary statistics on the pounds per square inch (PSI) of the suspension coils from the manufacturing lots, determine if the manufacturing lots are statistically different from the mean population using t-tests and compare vehicle performance of the MechaCar vehicles against vehicles from other manufacturers. The calculations were done with R on R Studio.
 
 ## Linear Regression to Predict MPG
  The dataset given contained a sample size of 50 prototypes measuring the miles per gallon across multiple variables. The summary of the linear regression can be used to determine the quality of the dataset. The dataset fits in with the normal parameters as the absolute value of the min and max are comparable -19.47 and 18.58, and the median -.07 being close to zero.
